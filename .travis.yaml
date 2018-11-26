@@ -3,7 +3,7 @@ node_js:
   - "node"
   
 install:  
-  - npm install @babel/core @babel/preset-env @babel/preset-react babel-cli jest
+  - npm install
 
 script:
 - npm test
